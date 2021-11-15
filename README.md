@@ -1,2 +1,2 @@
 # TechQuiz
- A quiz to test if you are a technophile
+ A quiz to see if you are a technophile
